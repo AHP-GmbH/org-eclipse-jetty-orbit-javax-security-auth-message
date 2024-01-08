@@ -1,0 +1,97 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: pq2KiiTizlobD18CJ+N6ibkRnGY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: /oHJziGd9bacmkiiJebUFHZPvGg=
+
+Name: javax/security/auth/message/config/ServerAuthContext.java
+SHA1-Digest: MMTITdsD2QEc2kVX4d0+6OUBTjk=
+
+Name: javax/security/auth/message/config/AuthConfigProvider.java
+SHA1-Digest: KJU7iYB8janeuWm5Gz6VKS9+6+Y=
+
+Name: javax/security/auth/message/config/AuthConfigFactory.java
+SHA1-Digest: 6XSG+/ZVvr42rlxeAwA/4nMV7mo=
+
+Name: javax/security/auth/message/ClientAuth.java
+SHA1-Digest: /q8uc1KamYrmQWLDUGQzdPOGyjI=
+
+Name: javax/security/auth/message/callback/PasswordValidationCallback.
+ java
+SHA1-Digest: 99VwfDyM6hDqzZHY3hKETQabWaQ=
+
+Name: javax/security/auth/message/config/ClientAuthContext.java
+SHA1-Digest: 1VzbQKy9b3mvDEZsyqxtcja9KkE=
+
+Name: META-INF/LICENSE
+SHA1-Digest: IWXzDmipCfN2EYwXMjKHMRyZSGs=
+
+Name: javax/security/auth/message/ServerAuth.java
+SHA1-Digest: 1AHlyPsKjTStfwbUJEueVjfk+tE=
+
+Name: javax/security/auth/message/callback/SecretKeyCallback.java
+SHA1-Digest: dqBWG739IRARG8u73Ufn9FXSLXE=
+
+Name: plugin.properties
+SHA1-Digest: sWytgqKbWL3A3QbQIr2HRJ30FC0=
+
+Name: javax/security/auth/message/config/RegistrationListener.java
+SHA1-Digest: gtHY2YASwAsPXbjgOUq/PcDVXfQ=
+
+Name: javax/security/auth/message/MessagePolicy.java
+SHA1-Digest: zJxpzOvv1LUjpEnhD05TESNWsu0=
+
+Name: javax/security/auth/message/MessageInfo.java
+SHA1-Digest: BiXGJVH+wsc84Y+lBVesEnlk3mQ=
+
+Name: about_files/LICENSE.txt
+SHA1-Digest: AZ1Gz6XJJe7p5KHLgXjkErkNZ+A=
+
+Name: javax/security/auth/message/callback/PrivateKeyCallback.java
+SHA1-Digest: nDLA88z047UzRwNN+tOZ3mm1W6Y=
+
+Name: javax/security/auth/message/AuthException.java
+SHA1-Digest: 0hUFL+zKtIoNoQ4GxnIv7THBY4g=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: javax/security/auth/message/module/ClientAuthModule.java
+SHA1-Digest: 7pMENJC82LvqrOz8KU4mI81JASo=
+
+Name: javax/security/auth/message/config/ClientAuthConfig.java
+SHA1-Digest: Y2QOM/sVGOBXePW6SVaTTkG9Vuw=
+
+Name: javax/security/auth/message/callback/GroupPrincipalCallback.java
+SHA1-Digest: 3U2VraLOxdFJ0zsz+M6gzSoFosI=
+
+Name: about.html
+SHA1-Digest: k0/CYGuWV4yXsCDIQUrqasam6bs=
+
+Name: META-INF/NOTICE
+SHA1-Digest: NdF1MTXLUsSlj96+XTfiUW5aamM=
+
+Name: javax/security/auth/message/module/ServerAuthModule.java
+SHA1-Digest: 5QIfBPVG6RWsnS4y+28hOw8u/UE=
+
+Name: javax/security/auth/message/config/ServerAuthConfig.java
+SHA1-Digest: fTvsyQoLzemi3vF6hUHC6nD0vGM=
+
+Name: javax/security/auth/message/callback/TrustStoreCallback.java
+SHA1-Digest: vYjNy09C/RMdWPTYkAD6gY7tndY=
+
+Name: javax/security/auth/message/config/AuthConfig.java
+SHA1-Digest: wMbcfuJWqBalJUI4n4pRg+iIsP8=
+
+Name: javax/security/auth/message/callback/CallerPrincipalCallback.jav
+ a
+SHA1-Digest: 66gK3INpgjovUHKdqGIS8GY5LEs=
+
+Name: javax/security/auth/message/AuthStatus.java
+SHA1-Digest: udkTru94Vmr1SSusl9sSece8SJI=
+
+Name: javax/security/auth/message/callback/CertStoreCallback.java
+SHA1-Digest: M6oXHJQ9+6shV+ni5LBMM1oFwqg=
+
+Name: META-INF/DEPENDENCIES
+SHA1-Digest: CVciyBUe31Fdz6HzJAv8t4QwoJg=
+
